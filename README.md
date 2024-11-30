@@ -4,7 +4,7 @@ A Java-based Online Examination System designed for both students and administra
 
 ![Online Exam](https://via.placeholder.com/800x400?text=Online+Examination+System)  
 
-## Features
+## Features are
 
 ### Student Features
 - Register as a student.
