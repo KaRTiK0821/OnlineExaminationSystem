@@ -80,7 +80,7 @@ public class Student extends User {
         System.out.println("Exam completed. You scored: " + score + "/" + exam.getQuestions().size() + " (" + grade + "%)");
 
         // Store the result
-        Result result = new Result(this, exam, grade);
+        Result result = new Result(this, exam, score);
         addResult(result);
         examResults.put(exam, score);
     }
